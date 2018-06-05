@@ -1,0 +1,17 @@
+[
+  {
+    "type": "MOD_INFO",
+    "mod-type": "SUPPLEMENTAL",
+    "ident": "blacklist-monster-shadyzombie",
+    "name": "blacklist-monster-shadyzombie",
+    "author": "Maddremor",
+    "description": "Blacklist shady zombies and ninja brutes.",
+    "category": "monster_exclude",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "type": "MONSTER_BLACKLIST",
+    "monsters": [ "mon_zombie_shady", "mon_zombie_brute_ninja" ]
+  }
+]
+

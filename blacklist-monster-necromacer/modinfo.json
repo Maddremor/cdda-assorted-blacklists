@@ -1,0 +1,17 @@
+[
+  {
+    "type": "MOD_INFO",
+    "mod-type": "SUPPLEMENTAL",
+    "ident": "blacklist-monster-necromancer",
+    "name": "blacklist-monster-necromancer",
+    "author": "Maddremor",
+    "description": "Blacklist zombie necromancer.",
+    "category": "monster_exclude",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "type": "MONSTER_BLACKLIST",
+    "monsters": [ "mon_zombie_necro" ]
+  }
+]
+

@@ -1,0 +1,17 @@
+[
+  {
+    "type": "MOD_INFO",
+    "mod-type": "SUPPLEMENTAL",
+    "ident": "blacklist-item-toolbox",
+    "name": "blacklist-item-toolbox",
+    "author": "Maddremor",
+    "description": "Blacklists toolbox item",
+    "category": "item_exclude",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "type": "ITEM_BLACKLIST",
+    "items": [ "toolbox" ]
+  }
+]
+
