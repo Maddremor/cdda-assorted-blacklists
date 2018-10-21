@@ -1,0 +1,17 @@
+[
+  {
+    "type": "MOD_INFO",
+    "mod-type": "SUPPLEMENTAL",
+    "ident": "blacklist-monster-electriczombies",
+    "name": "blacklist-monster-electriczombies",
+    "author": "Maddremor",
+    "description": "Blacklist electric zombies.",
+    "category": "monster_exclude",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "type": "MONSTER_BLACKLIST",
+    "monsters": [ "mon_zombie_brute_shocker", "mon_zombie_electric", "mon_zombie_nullfield" ]
+  }
+]
+
