@@ -1,0 +1,23 @@
+[
+  {
+    "type": "overmap_special",
+    "id": "farm_abandoned",
+    "copy-from": "farm_abandoned",
+    "locations": [  ],
+    "occurrences": [ 0, 0 ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Farm",
+    "copy-from": "Farm",
+    "locations": [  ],
+    "occurrences": [ 0, 0 ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Dairy Farm",
+    "copy-from": "Dairy Farm",
+    "locations": [  ],
+    "occurrences": [ 0, 0 ]
+  }
+]
