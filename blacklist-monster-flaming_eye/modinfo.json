@@ -2,16 +2,16 @@
   {
     "type": "MOD_INFO",
     "mod-type": "SUPPLEMENTAL",
-    "ident": "blacklist-monster-necromancer",
-    "name": "blacklist-monster-necromancer",
+    "ident": "blacklist-monster-flaming_eye",
+    "name": "blacklist-monster-flaming_eye",
     "author": "Maddremor",
-    "description": "Blacklist zombie necromancer.",
+    "description": "Blacklist flaming eye.",
     "category": "monster_exclude",
     "dependencies": [ "dda" ]
   },
   {
     "type": "MONSTER_BLACKLIST",
-    "monsters": [ "mon_zombie_necro" ]
+    "monsters": [ "mon_flaming_eye" ]
   }
 ]
 
