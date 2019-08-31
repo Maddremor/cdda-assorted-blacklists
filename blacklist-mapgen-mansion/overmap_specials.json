@@ -1,0 +1,30 @@
+[
+  {
+    "type": "overmap_special",
+    "id": "Mansion_Road",
+    "copy-from": "Mansion_Road",
+    "locations": [  ],
+    "occurrences": [ 0, 0 ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Mansion_Road_Alt",
+    "copy-from": "Mansion_Road_Alt",
+    "locations": [  ],
+    "occurrences": [ 0, 0 ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Mansion_Wild",
+    "copy-from": "Mansion_Wild",
+    "locations": [  ],
+    "occurrences": [ 0, 0 ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Mansion_WildAlt",
+    "copy-from": "Mansion_WildAlt",
+    "locations": [  ],
+    "occurrences": [ 0, 0 ]
+  }
+]

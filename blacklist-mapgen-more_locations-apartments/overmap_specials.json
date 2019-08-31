@@ -1,0 +1,23 @@
+[
+  {
+    "type": "overmap_special",
+    "id": "refugee_tower",
+    "copy-from": "refugee_tower",
+    "locations": [  ],
+    "occurrences": [ 0, 0 ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "tri_tower",
+    "copy-from": "tri_tower",
+    "locations": [  ],
+    "occurrences": [ 0, 0 ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "bandit_tower",
+    "copy-from": "bandit_tower",
+    "locations": [  ],
+    "occurrences": [ 0, 0 ]
+  }
+]

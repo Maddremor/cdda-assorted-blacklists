@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "mod-type": "SUPPLEMENTAL",
+    "ident": "blacklist-mapgen-more_locations-apartments",
+    "name": "blacklist-mapgen-more_locations-apartments",
+    "author": "Maddremor",
+    "description": "Blacklists apartment tower from More Locations",
+    "category": "monster_exclude",
+    "dependencies": [ "dda", "more_locations" ]
+  }
+]
+

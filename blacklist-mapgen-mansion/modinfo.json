@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "mod-type": "SUPPLEMENTAL",
+    "ident": "blacklist-mapgen-mansion",
+    "name": "blacklist-mapgen-mansion",
+    "author": "Maddremor",
+    "description": "Blacklist mansion overmap special.",
+    "category": "monster_exclude",
+    "dependencies": [ "dda" ]
+  }
+]
+

@@ -1,0 +1,15 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "blacklist-monster-mon_zombie_soldier_acid_1",
+    "name": "blacklist-monster-mon_zombie_soldier_acid_1",
+    "author": "Maddremor",
+    "description": "Blacklist acid zombie soldier.",
+    "category": "monster_exclude",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "type": "MONSTER_BLACKLIST",
+    "monsters": [ "mon_zombie_soldier_acid_1" ]
+  }
+]
