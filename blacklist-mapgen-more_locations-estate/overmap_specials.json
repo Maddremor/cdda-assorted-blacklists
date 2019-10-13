@@ -1,9 +1,0 @@
-[
-  {
-    "type": "overmap_special",
-    "id": "estate",
-    "copy-from": "estate",
-    "locations": [  ],
-    "occurrences": [ 0, 0 ]
-  }
-]
